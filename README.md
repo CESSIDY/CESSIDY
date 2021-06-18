@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CESSIDY
-- 👀 I’m interested in Machine learning and Deep learning whit Python
-- 🌱 I’m currently learning Deep learning whit Keras
+- 👋 Hi, I’m @CESSIDY, my real name is Vadym;
+- 👀 I hope you find something interesting among my projects;
 
 <!---
 CESSIDY/CESSIDY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
